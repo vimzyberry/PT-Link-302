@@ -1,4 +1,0 @@
-#Bin:
-pt_link_upgrade v1.0.2.bin
-Update:
-1
