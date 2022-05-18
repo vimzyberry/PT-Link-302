@@ -1,4 +1,0 @@
-#Bin:
-PT-Link/pt_link v1.9.2.bin
-#Update:
-2
